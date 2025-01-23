@@ -25,7 +25,4 @@ The application uses a news API to fetch real-time data, which is displayed in t
 | **Jetpack**         | Jetpack is a suite of libraries, tools, and architectural guidance that simplifies app development. It includes libraries like Room, Hilt, Paging, and Data Binding. |
 | **Glide**           | Glide is an image loading and caching framework for Android that allows you to load images from the web or local storage with minimal setup.                      |
 
-## Contributions:
-Feel free to fork the repository and contribute by submitting pull requests. If you find any bugs or have feature suggestions, don't hesitate to open an issue.
 
-Don't forget to star the project if you like it! ❤️ == ⭐
